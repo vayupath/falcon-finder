@@ -4,7 +4,6 @@ import { Provider } from 'react-redux';
 import App from '../App';
 import store from '../store';
 
-//Comment
 describe('Testing Initial Setup', () => {
   it('Renders App', async () => {
     render(
